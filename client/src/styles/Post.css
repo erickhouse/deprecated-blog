@@ -1,0 +1,14 @@
+
+
+.Post {
+    border-radius: 3px;
+    font: Arial, Helvetica, sans-serif
+}
+
+ .Tag {
+     background-color: gray;     
+}
+
+.Post .Right {
+    float: right;
+}

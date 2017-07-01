@@ -1,0 +1,34 @@
+{
+  "name": "proj",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "http://localhost:9000/",
+  "dependencies": {
+    "marky-markdown": "^9.0.3",
+    "material-ui": "^0.18.1",
+    "primer-css": "^6.0.0",
+    "react": "^15.4.2",
+    "react-bootstrap": "*",
+    "react-dom": "^15.4.2",
+    "react-github-cards": "^1.1.1",
+    "react-markdown": "^2.4.6",
+    "react-mdl": "^1.9.0",
+    "react-redux": "^5.0.3",
+    "react-router": "^4.0.0",
+    "react-router-dom": "^4.0.0",
+    "react-tap-event-plugin": "^2.0.1",
+    "redux": "^3.6.0"
+  },
+  "devDependencies": {
+    "flow-bin": "^0.41.0",
+    "react-scripts": "0.9.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "flow": "flow",
+    "compile": "npm run build && node copy"
+  }
+}

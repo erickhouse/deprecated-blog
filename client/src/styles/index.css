@@ -1,0 +1,10 @@
+
+@import "libs/primer.css";
+@import "Nav.css";
+@import "Post.css";
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
