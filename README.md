@@ -1,9 +1,20 @@
 
 # Personal Blog Site
 
-### Status
+## Status
 
 This project is no longer being maintained but was an extremely useful learning tool. It has been replaced a Pure React App which is hosted on GitHub pages. 
+
+>What I learned: 
+
+>- Build tools and compliers / transpilers (server and client)
+>- Library dependency management
+>- A plethora of different library API's (Bootstrap, React, Play, Node.js, JSP, and many more)
+>- Design patterns in the UI, Client, and Server
+>- Database management and configuration
+>- Database schema creation
+>- ORM's and database drivers
+>- The nightmare that is CSS>
 
 ## Purpose
 
@@ -90,16 +101,7 @@ I was at the end of the rope. By the end of it all I had a working client (React
 
 I learned an immense number of different things about all sorts of different topics. There is a big difference between working on an existing web app and setting up the web app from the beginning to end. 
 
-What I learned about: 
 
-- Build tools and compliers / transpilers (server and client)
-- Library dependency management
-- A plethora of different library API's (Bootstrap, React, Play, Node.js, JSP, and many more)
-- Design patterns in the UI, Client, and Server
-- Database management and configuration
-- Database schema creation
-- ORM's and database drivers
-- The nightmare that is CSS
 
 
  
